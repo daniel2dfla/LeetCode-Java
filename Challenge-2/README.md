@@ -1,4 +1,4 @@
-Dadas duas strings binárias ae b, retorne sua soma como uma string binária .
+Dadas duas strings binárias a e b, retorne sua soma como uma string binária .
 
 
 
@@ -15,5 +15,5 @@ Saída: "10101"
 Restrições:
 
 1 <= a.length, b.length <= 104
-ae bconsistem apenas em '0'ou '1'caracteres.
+a e b consistem apenas em '0'ou '1'caracteres.
 Cada sequência não contém zeros à esquerda, exceto o próprio zero.
