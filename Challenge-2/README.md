@@ -14,6 +14,8 @@ Saída: "10101"
 
 Restrições:
 
-1 <= a.length, b.length <= 104
-a e b consistem apenas em '0'ou '1'caracteres.
-Cada sequência não contém zeros à esquerda, exceto o próprio zero.
+- 1 <= a.length, b.length <= 104
+
+- a e b consistem apenas em '0'ou '1'caracteres.
+
+- Cada sequência não contém zeros à esquerda, exceto o próprio zero.
