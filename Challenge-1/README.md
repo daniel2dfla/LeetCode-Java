@@ -1,4 +1,4 @@
-Dado um array de inteiros nums e um inteiro target, retorne os índices dos dois números de modo que a soma deles sejatarget .
+Dado um array de inteiros nums e um inteiro target, retorne os índices dos dois números de modo que a soma deles seja target .
 
 Você pode assumir que cada entrada teria exatamente uma solução e não pode usar o mesmo elemento duas vezes.
 
