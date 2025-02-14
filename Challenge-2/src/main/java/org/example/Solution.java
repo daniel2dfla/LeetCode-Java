@@ -1,12 +1,15 @@
 package org.example;
+import java.math.BigInteger;
 
 public class Solution {
     public String addBinary(String a, String b) {
-        int num1 = Integer.parseInt(a, 2);
-        int num2 = Integer.parseInt(b, 2);
+        BigInteger num1 = new BigInteger (a, 2);
+        BigInteger num2 = new BigInteger (b, 2);
 
-        int sum = num1 + num2;
+        BigInteger soma = num1.add(num2);
 
-        return Integer.toBinaryString(sum);
+        String resultado = soma.toString(2);
+
+        return resultado;
     }
 }
