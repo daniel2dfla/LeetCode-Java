@@ -1,4 +1,6 @@
-# Pesquisar Inserir Posição
+
+# Pesquisar e Descobrir Posição
+
 
 Dado um array ordenado de inteiros distintos e um valor alvo, retorna o índice se o alvo for encontrado. Se não, retorna o índice onde ele estaria se fosse inserido em ordem.
 
