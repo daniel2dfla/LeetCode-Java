@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Pesquisar e Descobrir Posição
+=======
+# Pesquisar Inserir Posição
+>>>>>>> 216403c7d520b729c68ecb2cce27158e9bcda5a9
 
 Dado um array ordenado de inteiros distintos e um valor alvo, retorna o índice se o alvo for encontrado. Se não, retorna o índice onde ele estaria se fosse inserido em ordem.
 
